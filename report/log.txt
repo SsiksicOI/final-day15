@@ -1,0 +1,18 @@
+*   dd0d90f (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from SsiksicOI/feature/sensor
+|\  
+| * 80b6291 (origin/feature/sensor) 센서 설정 추가
+| * c8e6199 센서 삭제
+| * 6736885 센서 설정 추가
+|/  
+*   e510750 속도 1.5로 변경
+|\  
+| * cd582c6 속도 2.0으로 변경
+* | 6651838 속도 1.5로 변경
+|/  
+*   42a1cda Merge branch 'main' of https://github.com/SsiksicOI/final-day15
+|\  
+| * cd6a03e README 설명 추가
+* | daefabe 팀원 목록 추가
+|/  
+* 4ff7391 설정 파일 추가
+* cd44ce6 Initial commit
